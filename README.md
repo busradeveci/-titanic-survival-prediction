@@ -3,7 +3,7 @@
 This project uses the Titanic dataset to predict passenger survival using the **Random Forest** algorithm.
 
 ## 💡 Overview
-At first, the model had only **39% accuracy**, but after careful data cleaning and preprocessing, we improved the prediction accuracy significantly. The goal was to keep it **simple, educational, and effective** — without unnecessary complexity.
+At first, my model had only 39% accuracy. But after I carefully cleaned and preprocessed the data, I significantly increased the prediction accuracy. My goal was to keep the approach simple, educational, and effective — without adding unnecessary complexity.
 
 ## 🧠 What We Did
 - Removed unnecessary columns like `Name`, `Ticket`, `Cabin`, etc.
